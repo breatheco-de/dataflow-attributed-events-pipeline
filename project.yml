@@ -1,9 +1,9 @@
-name: "Events Collection"
+name: "Attributed Events"
 pipelines:
   - slug: "merge_dataframes"
     sources:
-      - cohort_user_with_projects_and_mentorships
-      - cohorts-with-json-and-history-log
+      - events_20230804
+      - clean_form_entries__form_entry
     destination: bigquery-event-and-checkins
     transformations:
       - merge_dataframes
