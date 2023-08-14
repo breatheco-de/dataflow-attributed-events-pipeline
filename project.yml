@@ -2,7 +2,7 @@ name: "Attributed Events"
 pipelines:
   - slug: "merge_dataframes"
     sources:
-      - events_20230804
+      - events_20230808
       - clean_form_entries__form_entry
     destination: bigquery-event-and-checkins
     transformations:
