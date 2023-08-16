@@ -45,6 +45,8 @@ def add_dummy_data(df_events):
 def run(df_events):
     # Selecting only the required columns from the events and forms
     df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
+
+    df_events_filtered = df_events_filtered.drop_duplicates(subset=['user_pseudo_id'])
     # Build a dictionary containing unique key-value pairs for user_pseudo_id and user_id
     mapping_dict = pd.Series(df_events_filtered['user_id'].values,
                                                         index=df_events_filtered['user_pseudo_id'].values).to_dict()
@@ -54,18 +56,3 @@ def run(df_events):
     final_df = df_events.dropna(subset=['user_id'])
     final_df = final_df[['user_id', 'user_pseudo_id']]
     return final_df
-
-# def run(df_events):
-
-#     # Selecting only the required columns from the events and forms
-#     df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
-
-#     # Iterate through the unique user_pseudo_ids to apply matching user_ids
-#     for pseudo_id in df_events_filtered['user_pseudo_id'].unique():
-#         matching_user_id = df_events.loc[df_events['user_pseudo_id'] == pseudo_id, 'user_id'].iloc[0]
-#         df_events.loc[df_events['user_pseudo_id'] == pseudo_id, 'user_id'] = matching_user_id
-#     # Drop rows with empty user_id from the final DataFrame
-#     final_df = df_events.dropna(subset=['user_id'])
-
-#     # final_df = final_df[['event_date', 'event_name', 'user_id', 'user_pseudo_id', 'device.web_info.hostname']]
-#     return final_df
