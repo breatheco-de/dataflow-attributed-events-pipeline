@@ -1,9 +1,9 @@
 name: "Attributed Events"
 pipelines:
-  - slug: "merge_dataframes"
+  - slug: "attribute_events_pipeline"
     sources:
       - analytics_events_query
       - bigquery-form-entry
     destination: cleaned_attributed_analytics_events
     transformations:
-      - merge_dataframes
+      - attribute_events
