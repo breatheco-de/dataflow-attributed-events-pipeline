@@ -25,7 +25,7 @@ expected_output = pd.DataFrame({
 })
 
 
-def add_dummy_data(df_events, df_form_entries):
+def add_dummy_data(df_events):
     # Dummy data for df_events
     dummy_df_events = pd.DataFrame({
         'event_date': [20220101, 20220102, 20220103],
@@ -38,40 +38,39 @@ def add_dummy_data(df_events, df_form_entries):
     # Add dummy data to original df_events
     df_events = pd.concat([df_events, dummy_df_events], ignore_index=True)
 
-    # Dummy data for df_form_entries
-    dummy_df_form_entries = pd.DataFrame({
-        'id': [1, 2],
-        'email': ['email1@example.com', 'email2@example.com'],
-        'attribution_id': [12, 23],
-        'deal_status': ['WON', 'WON']
-    })
-    
-    # Add dummy data to original df_form_entries
-    df_form_entries = pd.concat([df_form_entries, dummy_df_form_entries], ignore_index=True)
-
-    return df_events, df_form_entries
+    return df_events
 
 
-def run(df_events, df_form_entries):
-    # Add dummy data
-    # df_events, df_form_entries = add_dummy_data(df_events, df_form_entries)
 
-    # Filter dataframe with deal_status == 'WON'
-    df_form_entries_won = df_form_entries[df_form_entries['deal_status'] == 'WON']
-
+def run(df_events):
     # Selecting only the required columns from the events and forms
     df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
-    df_form_entries_won_filtered = df_form_entries_won[['attribution_id']].copy()
 
-    # Merge dataframes on user_id and attribution_id to find matching user_ids
-    merged_df = df_events_filtered.merge(df_form_entries_won_filtered, left_on='user_id', right_on='attribution_id', how='inner')
+    # Build a dictionary containing unique key-value pairs for user_pseudo_id and user_id
+    mapping_dict = pd.Series(df_events_filtered['user_id'].values,
+                             index=df_events_filtered['user_pseudo_id'].values).to_dict()
 
-    # Iterate through the unique user_pseudo_ids to apply matching user_ids
-    for pseudo_id in merged_df['user_pseudo_id'].unique():
-        matching_user_id = merged_df.loc[merged_df['user_pseudo_id'] == pseudo_id, 'user_id'].iloc[0]
-        df_events.loc[df_events['user_pseudo_id'] == pseudo_id, 'user_id'] = matching_user_id
+    # Replace 'user_id' values in the main dataframe using the mapping dictionary
+    df_events['user_id'] = df_events['user_pseudo_id'].map(mapping_dict)
+
     # Drop rows with empty user_id from the final DataFrame
     final_df = df_events.dropna(subset=['user_id'])
 
-    final_df = final_df[['event_date', 'event_name', 'user_id', 'user_pseudo_id', 'device.web_info.hostname']]
     return final_df
+
+
+    
+# def run(df_events):
+
+#     # Selecting only the required columns from the events and forms
+#     df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
+
+#     # Iterate through the unique user_pseudo_ids to apply matching user_ids
+#     for pseudo_id in df_events_filtered['user_pseudo_id'].unique():
+#         matching_user_id = df_events.loc[df_events['user_pseudo_id'] == pseudo_id, 'user_id'].iloc[0]
+#         df_events.loc[df_events['user_pseudo_id'] == pseudo_id, 'user_id'] = matching_user_id
+#     # Drop rows with empty user_id from the final DataFrame
+#     final_df = df_events.dropna(subset=['user_id'])
+
+#     # final_df = final_df[['event_date', 'event_name', 'user_id', 'user_pseudo_id', 'device.web_info.hostname']]
+#     return final_df
