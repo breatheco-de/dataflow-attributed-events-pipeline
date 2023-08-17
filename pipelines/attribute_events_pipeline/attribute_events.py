@@ -54,5 +54,5 @@ def run(df_events):
     df_events['user_id'] = df_events['user_pseudo_id'].map(mapping_dict)
     # Drop rows with empty user_id from the final DataFrame
     final_df = df_events.dropna(subset=['user_id'])
-    final_df = final_df[['user_id', 'user_pseudo_id']]
+    # final_df = final_df[['user_id', 'user_pseudo_id']]
     return final_df
