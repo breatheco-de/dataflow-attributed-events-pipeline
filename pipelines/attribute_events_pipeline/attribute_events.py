@@ -46,6 +46,10 @@ def run(df_events):
     # Selecting only the required columns from the events and forms
     df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
 
+    # Convert user_id and user_pseudo_id to string
+    df_events_filtered['user_id'] = df_events_filtered['user_id'].astype(str)
+    df_events_filtered['user_pseudo_id'] = df_events_filtered['user_pseudo_id'].astype(str)
+    
     df_events_filtered = df_events_filtered.drop_duplicates(subset=['user_pseudo_id'])
     # Build a dictionary containing unique key-value pairs for user_pseudo_id and user_id
     mapping_dict = pd.Series(df_events_filtered['user_id'].values,
