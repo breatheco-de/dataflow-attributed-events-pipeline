@@ -1,0 +1,821 @@
+event_date,event_timestamp,event_name,event_params,event_value_in_usd,user_id,user_pseudo_id,traffic_source
+20230725,1690306164518914,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-rome-italy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 707, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690306224294563,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 553, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-rome-italy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp in Rome, Italy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690327831827573,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690327831, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,1883632374.1690327832,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690315564253139,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690315563, 'float_value': None, 'double_value': None}}]",,,1241487618.1690315564,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690306500087105,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306499, 'float_value': None, 'double_value': None}}]",,,2033306740.1690306500,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690292686742985,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690292686, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1257914167.1690292687,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690334882012274,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690334881, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,199349999.1690334882,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690285667851996,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 3, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690285667, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,1191227260.1690251935,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690286336881546,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 3, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690285667, 'float_value': None, 'double_value': None}}]",,,1191227260.1690251935,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690294434929931,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690294434, 'float_value': None, 'double_value': None}}]",,,513239593.1690294435,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690286740017592,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286705, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 31, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,917850678.1690286706,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690286942514087,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286705, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Upcoming dates, cohorts, workshops and events at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 378, 'float_value': None, 'double_value': None}}]",,,917850678.1690286706,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690286988676905,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 478, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a Software Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286705, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,917850678.1690286706,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690286994597413,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Upcoming dates, cohorts, workshops and events at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286705, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 880, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,917850678.1690286706,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690287004237887,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 626, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-lisbon-portugal', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp in Lisbon, Portugal · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286705, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,917850678.1690286706,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690287290912514,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690330458, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp Málaga, Spain with 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-malaga-spain', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 300, 'float_value': None, 'double_value': None}}]",,,1866964847.1690330458,"{'name': '(referral)', 'medium': 'referral', 'source': 'fotolog.com'}"
+20230725,1690338068347420,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690338075, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 8, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,190577647.1689364494,"{'name': '**LP - Smart - USA - Discovery', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690324794694257,page_view,"[{'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 229, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690324775, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Aplica a 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?utm_source=fb&utm_medium=ppc&utm_campaign=23856128805530510&utm_id=23856128805530510&utm_term=23856128805470510&utm_content=23856129228690510', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1279080411.1690324775,"{'name': '23856128805530510', 'medium': 'ppc', 'source': 'fb'}"
+20230725,1690314792183776,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690314753, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer?ref=elisa40&gclid=Cj0KCQjw5f2lBhCkARIsAHeTvliG3Ck1Hp4FvV3FbqK_WxoqMH-OzQk-6X15Q163_vtlAo8BT0CZXEUaAsOwEALw_wcB', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 604, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Upcoming dates, cohorts, workshops and events at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1926500118.1690314753,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690314880760223,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690314753, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become an AI master with us at our Machine Learning Engineer Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 42, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,1926500118.1690314753,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690315060676747,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690314753, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 43, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1926500118.1690314753,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690315121763244,page_view,"[{'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 699, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690314753, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'All you need to know about Artificial Intelligence · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/trends-and-tech/all-you-need-to-know-about-artificial-intelligence', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1926500118.1690314753,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690315159147551,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 407, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690314753, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/trends-and-tech/all-you-need-to-know-about-artificial-intelligence', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1926500118.1690314753,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690315200158464,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690314753, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 285, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become an AI master with us at our Machine Learning Engineer Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1926500118.1690314753,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690289620760162,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Aplica a 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690289618, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'android-app://com.linkedin.android/', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,627958845.1690289619,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690278577338788,page_view,"[{'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 172, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-dublin-ireland', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690278636360925,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/press', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 66, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': '4Geeks Academy on the news · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690278659783466,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Job opportunities in 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/press', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 497, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/jobs', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690278680530435,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/jobs', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/press', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 429, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': '4Geeks Academy on the news · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690278682869133,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/press', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 543, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690278684288310,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 139, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp in Dublin, Ireland · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-dublin-ireland', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690315031989851,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690315031, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1342381158.1690315032,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690300903031303,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690300902, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,135063277.1690300903,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690287379066417,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690287376, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,300835755.1690287376,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690315209719035,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690315209, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,910102255.1690315210,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690292620748691,GA4 - Request More Info,"[{'key': 'email', 'value': {'string_value': 'alvarofajardo86@gmail.com', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 82403, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-bolivia', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Curso de Desarrollador Full Stack en 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690292382, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,1672359329844462800,239855214.1690292383,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690292522977836,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 72, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690292382, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-bolivia', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Bootcamp Programación Bolivia · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,239855214.1690292383,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690292543045326,page_view,"[{'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 51, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690292382, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-bolivia', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Curso de Desarrollador Full Stack en 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,239855214.1690292383,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690292626761511,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/gracias', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Muchas Gracias - 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 296, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690292382, 'float_value': None, 'double_value': None}}]",,,239855214.1690292383,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690276079866533,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276063, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 4, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1478740236.1690276063,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690315822459294,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-rome-italy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become an AI master with us at our Machine Learning Engineer Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690315702, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 112677, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,339999611.1690315703,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690315956331402,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 242, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690315702, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,339999611.1690315703,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690272393895693,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/contact', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Contact 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 141, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690272322, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,814622859.1690272322,"{'name': '(referral)', 'medium': 'referral', 'source': 'edumanias.com'}"
+20230725,1690262002367546,page_view,"[{'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690261996, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/financiacion?utm_source=google&utm_medium=cpc&utm_campaign=11747537031&utm_content=116275065017&utm_term=4geeks&gad=1&gclid=Cj0KCQjwwvilBhCFARIsADvYi7INkEImrsGhwIvkpsee3JVvVwgKUF7-f-OoGUcEMMtfJIps1yn59-IaAq89EALw_wcB', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 415, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': '4Geeks Academy - Coding Bootcamp Miami, España, Portugal, Alemania Chile y Venezuela · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,2092158717.1690260153,"{'name': 'Search - RM - 4Geeks Brand', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690262071241503,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/premios', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690261996, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 760, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Premios y Reconocimientos entregados a 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,2092158717.1690260153,"{'name': 'Search - RM - 4Geeks Brand', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690264707498140,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 777, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690264701, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/premios', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 3, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Aplica a 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,2092158717.1690260153,"{'name': 'Search - RM - 4Geeks Brand', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690265050768742,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Sobre 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 708, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/sobre-la-academia', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 3, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690264701, 'float_value': None, 'double_value': None}}]",,,2092158717.1690260153,"{'name': 'Search - RM - 4Geeks Brand', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690304887361750,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690304899619055,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 527, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690300693646749,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 523, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690308887925872,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690281518632865,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690281518, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,15849542.1690281519,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690281550374116,page_view,"[{'key': 'page_title', 'value': {'string_value': '4Geeks vs Other Bootcamps · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690281518, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/why-4geeks', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,15849542.1690281519,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690310917836487,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 685, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690310468, 'float_value': None, 'double_value': None}}]",,,28800663.1690310469,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690310930998350,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 429, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690310468, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,28800663.1690310469,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690268428800011,page_view,"[{'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 456, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Online Coding Bootcamps in Europe · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/europe-online-coding-bootcamp', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690268127, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,9001007.1690268128,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690268443644044,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp in Berlin, Germany · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690268127, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/europe-online-coding-bootcamp', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 728, 'float_value': None, 'double_value': None}}]",,,9001007.1690268128,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690268448830592,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690268127, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 178, 'float_value': None, 'double_value': None}}]",,,9001007.1690268128,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690286568770540,page_view,"[{'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 63, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286569, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690286574844350,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 63, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286569, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690286580073913,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690286569, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': '4Geeks Academy - Coding Bootcamp Miami, España, Portugal, Alemania Chile y Venezuela · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 63, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 611, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio?lang=es', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690294935074578,page_view,"[{'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690294929, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 64, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index?lang=en', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio?lang=es', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690295263165516,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 6899, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690294929, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index?lang=en', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 64, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690295299539471,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index?lang=en', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 770, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690294929, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 64, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690295305081536,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690294929, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 534, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index?lang=en', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 64, 'float_value': None, 'double_value': None}}]",,,302776007.1682328819,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690277053689891,GA4 - Request More Info,"[{'key': 'email', 'value': {'string_value': 'baselasd111@gmail.com', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 37807, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,1317444779313275600,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690277020709716,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 414, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690277060418452,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/thank-you', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'General Thank You - 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 772, 'float_value': None, 'double_value': None}}]",,,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690277109043425,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/thank-you', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 538, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}]",,,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690277139743284,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 797, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/thank-you', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'General Thank You - 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690277197843534,page_view,"[{'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 599, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/thank-you', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690277316497800,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 574, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690276988, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1287334238.1690276988,"{'name': '(referral)', 'medium': 'referral', 'source': 'computerscience.org'}"
+20230725,1690340709427344,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690340708, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1102804597.1690340709,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690327612283870,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 335, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp in Lisbon, Portugal · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-lisbon-portugal', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690293087955719,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Full Stack Developer Course by 4 Geeks Academy, master the Skills and Technologies · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 673, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,,
+20230725,1690294233530905,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690294233, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1670767281.1690294233,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690260002781910,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 10672, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Curso de Desarrollador Full Stack en 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690259989, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,397314549.1690259989,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690260375029423,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 228, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Aplica a 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690259989, 'float_value': None, 'double_value': None}}]",,,397314549.1690259989,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690260481483872,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 56, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690259989, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Curso de Desarrollador Full Stack en 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,397314549.1690259989,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690260923081620,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Aplica a 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690259989, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 382, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica?utm_plan=latam-solo-programa-pt', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,397314549.1690259989,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690260947391921,page_view,"[{'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/es/aplica?utm_plan=latam-solo-programa-pt', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/financiacion', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Financiación y formas de pago en 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690259989, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 543, 'float_value': None, 'double_value': None}}]",,,397314549.1690259989,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690306862964877,page_view,"[{'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 17676, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-madrid', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690306935603567,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 332, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply?utm_plan=spain-isa-ds-pt', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690306945595278,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 25, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply?utm_plan=spain-isa-ds-pt', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307072208566,page_view,"[{'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 336, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307124818256,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307139504984,page_view,"[{'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307148248477,page_view,"[{'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 443, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/financials', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'All the ways you can pay (or not) at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307189170901,page_view,"[{'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/financials', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 658, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Upcoming dates, cohorts, workshops and events at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/next-dates', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307446977382,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/financials', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 20, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307453392206,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 15, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307471875405,page_view,"[{'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Coding Bootcamp Málaga, Spain with 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-malaga-spain', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 34, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690307502114063,page_view,"[{'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Become a AI Machine Learning Engineer at 4Geeks Academy · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-campus/coding-bootcamp-malaga-spain', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 2, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690306844, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 34929, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,265467609.1690243332,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
+20230725,1690296951522839,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer?utm_source=google&utm_medium=cpc&utm_campaign=20364960377&utm_content=159740447908&utm_term=sololearn&gad=1&gclid=Cj0KCQjwwvilBhCFARIsADvYi7Ine8W-3qvEVuwIek7P9CRt7keE9BEYWiDpFx0WaWAYtMPcj7tQMfYaAs2XEALw_wcB', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 3, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690296881, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,1890380961.1690223946,"{'name': 'Search - USA - Target States - Competitors', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690311311173920,page_view,"[{'key': 'page_title', 'value': {'string_value': 'Apply to 4Geeks Academy Bootcamp · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/apply', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer?utm_source=google&utm_medium=cpc&utm_campaign=20364960377&utm_content=159740447908&utm_term=sololearn&gad=1&gclid=Cj0KCQjwwvilBhCFARIsADvYi7Ine8W-3qvEVuwIek7P9CRt7keE9BEYWiDpFx0WaWAYtMPcj7tQMfYaAs2XEALw_wcB', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 5, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690311306, 'float_value': None, 'double_value': None}}]",,,1890380961.1690223946,"{'name': 'Search - USA - Target States - Competitors', 'medium': 'cpc', 'source': 'google'}"
+20230725,1690340872747941,page_view,"[{'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 4, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690340864, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}]",,,142985417.1690140938,"{'name': '23855211211280574', 'medium': 'ppc', 'source': 'fb'}"
+20230725,1690342119568726,page_view,"[{'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690340864, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': '4Geeks Academy on the news · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 4, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 900, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/press', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,142985417.1690140938,"{'name': '23855211211280574', 'medium': 'ppc', 'source': 'fb'}"
+20230725,1690342140786739,page_view,"[{'key': 'session_engaged', 'value': {'string_value': '1', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engagement_time_msec', 'value': {'string_value': None, 'int_value': 906, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690340864, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ignore_referrer', 'value': {'string_value': 'true', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 4, 'float_value': None, 'double_value': None}}
+ {'key': 'page_referrer', 'value': {'string_value': 'https://4geeksacademy.com/us/press', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/students-and-projects', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Our graduates and final projects · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,142985417.1690140938,"{'name': '23855211211280574', 'medium': 'ppc', 'source': 'fb'}"
+20230725,1690277437361322,page_view,"[{'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'page_title', 'value': {'string_value': 'Miami Coding Bootcamp, Madrid España, Santiago de Chile · 4Geeks Academy', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690277437, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 4, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/us/index', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,411873430.1690199800,"{'name': '(direct)', 'medium': '(none)', 'source': '(direct)'}"
+20230725,1690275877823430,page_view,"[{'key': 'ga_session_id', 'value': {'string_value': None, 'int_value': 1690275877, 'float_value': None, 'double_value': None}}
+ {'key': 'entrances', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'session_engaged', 'value': {'string_value': '0', 'int_value': None, 'float_value': None, 'double_value': None}}
+ {'key': 'engaged_session_event', 'value': {'string_value': None, 'int_value': 1, 'float_value': None, 'double_value': None}}
+ {'key': 'ga_session_number', 'value': {'string_value': None, 'int_value': 13, 'float_value': None, 'double_value': None}}
+ {'key': 'page_location', 'value': {'string_value': 'https://4geeksacademy.com/es/inicio', 'int_value': None, 'float_value': None, 'double_value': None}}]",,,1521980768.1688459178,"{'name': '(organic)', 'medium': 'organic', 'source': 'google'}"
