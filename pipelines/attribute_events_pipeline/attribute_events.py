@@ -43,19 +43,28 @@ def add_dummy_data(df_events):
 
 
 def run(df_events):
+    df_events_copy = df_events.copy()
     # Selecting only the required columns from the events and forms
-    df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
+    df_events_filtered = df_events_copy[['user_id', 'user_pseudo_id']].dropna(subset=['user_id'])
 
-    print("Example of user_id:", df_events_filtered['user_id'].iloc[0])
-    print("Datatype of user_id column:", df_events_filtered['user_id'].dtype)
+    df_events_filtered['user_id'] = df_events_filtered['user_id'].astype(str)
 
+    # Optional: Check if 'user_id' is now string
+    if df_events_filtered['user_id'].dtype != 'object':
+        logging.warning('Conversion to string failed, is still an object')
+        
     df_events_filtered = df_events_filtered.drop_duplicates(subset=['user_pseudo_id'])
     # Build a dictionary containing unique key-value pairs for user_pseudo_id and user_id
-    mapping_dict = pd.Series(df_events_filtered['user_id'].values,
-                                                        index=df_events_filtered['user_pseudo_id'].values).to_dict()
+    mapping_dict = {row['user_pseudo_id']: row['user_id'] for index, row in df_events_filtered.iterrows()}
+    
     # Replace 'user_id' values in the main dataframe using the mapping dictionary
-    df_events['user_id'] = df_events['user_pseudo_id'].map(mapping_dict)
+    df_events_copy['user_id'] = df_events_copy['user_pseudo_id'].map(mapping_dict)
+
+    # Convert 'user_id' in the final DataFrame to string as well
+    df_events_copy['user_id'] = df_events_copy['user_id'].astype(str)
+    
     # Drop rows with empty user_id from the final DataFrame
-    final_df = df_events.dropna(subset=['user_id'])
+    final_df = df_events_copy.dropna(subset=['user_id'])
+    
     # final_df = final_df[['user_id', 'user_pseudo_id']]
     return final_df
