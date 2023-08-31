@@ -48,6 +48,7 @@ def run(df_events):
     df_events_filtered = df_events_copy[['user_id', 'user_pseudo_id']].dropna(subset=['user_id'])
 
     df_events_filtered['user_id'] = df_events_filtered['user_id'].astype(str)
+    df_events_filtered['user_pseudo_id'] = df_events_filtered['user_pseudo_id'].astype(str)
 
     # Optional: Check if 'user_id' is now string
     if df_events_filtered['user_id'].dtype != 'object':
@@ -62,6 +63,7 @@ def run(df_events):
 
     # Convert 'user_id' in the final DataFrame to string as well
     df_events_copy['user_id'] = df_events_copy['user_id'].astype(str)
+    df_events_copy['user_pseudo_id'] = df_events_copy['user_pseudo_id'].astype(str)
     
     # Drop rows with empty user_id from the final DataFrame
     final_df = df_events_copy.dropna(subset=['user_id'])
