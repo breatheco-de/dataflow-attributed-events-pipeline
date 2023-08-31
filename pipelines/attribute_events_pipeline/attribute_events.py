@@ -46,11 +46,6 @@ def run(df_events):
     # Selecting only the required columns from the events and forms
     df_events_filtered = df_events[['user_id', 'user_pseudo_id']].dropna(subset=['user_id']).copy()
 
-    df_events_filtered['user_id'] = df_events_filtered['user_id'].astype(int)
-    # Removing the last 4 digits from 'user_id'
-    df_events_filtered['user_id'] = df_events_filtered['user_id'] // 10000
-
-    
     print("Example of user_id:", df_events_filtered['user_id'].iloc[0])
     print("Datatype of user_id column:", df_events_filtered['user_id'].dtype)
 
