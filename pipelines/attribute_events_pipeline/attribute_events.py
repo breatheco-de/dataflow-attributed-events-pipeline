@@ -56,7 +56,8 @@ def run(df_events):
         
     df_events_filtered = df_events_filtered.drop_duplicates(subset=['user_pseudo_id'])
     # Build a dictionary containing unique key-value pairs for user_pseudo_id and user_id
-    mapping_dict = {row['user_pseudo_id']: row['user_id'] for index, row in df_events_filtered.iterrows()}
+    mapping_dict = pd.Series(df_events_filtered['user_id'].values,
+                                                        index=df_events_filtered['user_pseudo_id'].values).to_dict()
     
     # Replace 'user_id' values in the main dataframe using the mapping dictionary
     df_events_copy['user_id'] = df_events_copy['user_pseudo_id'].map(mapping_dict)
