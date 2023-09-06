@@ -81,5 +81,7 @@ def run(df_events):
     final_df = df_events_copy.dropna(subset=['user_id'])
     
     print(final_df[['user_id', 'user_pseudo_id']].head(5))
-    # final_df = final_df[['user_id', 'user_pseudo_id']]
+    final_df = final_df.drop_duplicates()
+
+    final_df = final_df[['user_id', 'user_pseudo_id', 'email']]
     return final_df
