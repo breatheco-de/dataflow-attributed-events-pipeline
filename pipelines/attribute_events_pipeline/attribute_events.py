@@ -83,5 +83,5 @@ def run(df_events):
     print(final_df[['user_id', 'user_pseudo_id']].head(5))
     final_df = final_df.drop_duplicates()
 
-    final_df = final_df[['user_id', 'user_pseudo_id', 'email']]
+    # final_df = final_df[['user_id', 'user_pseudo_id', 'email']]
     return final_df
