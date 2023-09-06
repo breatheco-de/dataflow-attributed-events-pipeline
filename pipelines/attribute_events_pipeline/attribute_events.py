@@ -76,5 +76,6 @@ def run(df_events):
     # Drop rows with empty user_id from the final DataFrame
     final_df = df_events_copy.dropna(subset=['user_id'])
     
+    print(final_df[['user_id', 'user_pseudo_id']].head(5))
     # final_df = final_df[['user_id', 'user_pseudo_id']]
     return final_df
