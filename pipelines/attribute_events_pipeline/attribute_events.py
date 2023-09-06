@@ -48,6 +48,8 @@ def run(df_events):
     df_num = df_events_copy[df_events_copy['user_id'].apply(lambda x: isinstance(x, (int, float, np.number)))]
 
     df_num['user_id'] = df_num['user_id'].replace([np.inf, -np.inf], np.nan).astype(float).astype('Int64').astype(str)
+
+    df_num['user_id'] = df_num['user_id'].apply(lambda x: x[:-3] if len(x) > 10 else x)
     df_events_copy = pd.concat([df_str, df_num])
 
     # Convert 'user_id' in the final DataFrame to string as well
