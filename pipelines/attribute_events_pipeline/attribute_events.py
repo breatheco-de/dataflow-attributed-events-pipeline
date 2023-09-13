@@ -32,7 +32,6 @@ def run(df_events):
 
     df_events_not_null_user_id = df_events_copy[df_events_copy['user_id'].notna()]
 
-
     df_events_not_null_user_id.dropna(subset=['user_pseudo_id'], inplace=True)
     print(df_events_not_null_user_id.shape, "Shape of the df_events_not_null_user_id")
     print("head of the df_events_not_null_user_id", df_events_not_null_user_id[["user_id", "user_pseudo_id"]].head(10))
@@ -48,4 +47,7 @@ def run(df_events):
     print("head of the df_events_copy", df_events_copy[["user_id", "user_pseudo_id"]].head(10))
 
     df_events_copy.dropna(subset=['user_id'], inplace=True)
+
+    df_events_copy.drop_duplicates(inplace=True)
+
     return df_events_copy
