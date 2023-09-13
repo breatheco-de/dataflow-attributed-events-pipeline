@@ -25,63 +25,27 @@ expected_output = pd.DataFrame({
 })
 
 
-def add_dummy_data(df_events):
-    # Dummy data for df_events
-    dummy_df_events = pd.DataFrame({
-        'event_date': [20220101, 20220102, 20220103],
-        'event_name': ['Event1', 'Event2', 'Event3'],
-        'user_id': [None, None, 12],
-        'user_pseudo_id': [200, 200, 200],
-        'device.web_info.hostname': ['host1', 'host2', 'host3']
-    })
-
-    # Add dummy data to original df_events
-    df_events = pd.concat([df_events, dummy_df_events], ignore_index=True)
-
-    return df_events
-
-
 def run(df_events):
+    # Make a copy to preserve the original dataframe
     df_events_copy = df_events.copy()
-    
-    df_str = df_events_copy[df_events_copy['user_id'].apply(lambda x: isinstance(x, str))]
-    df_num = df_events_copy[df_events_copy['user_id'].apply(lambda x: isinstance(x, (int, float, np.number)))]
-    print(df_str.shape, "Shape of the strings df")
-    print(df_num.shape, "Shape of the numbers df")
-    df_num['user_id'] = df_num['user_id'].replace([np.inf, -np.inf], np.nan).astype(float).astype('Int64').astype(str)
+    print(df_events_copy.shape, "Shape of the copied dataframe")
 
-    # df_num['user_id'] = df_num['user_id'].apply(lambda x: x[:-3] if len(x) > 10 else x)
-    df_events_copy = pd.concat([df_str, df_num])
-    df_events_copy['user_id'] = df_events_copy['user_id'].apply(lambda x: x[:-3] if len(x) > 10 else x)
+    df_events_not_null_user_id = df_events_copy[df_events_copy['user_id'].notna()]
 
-    # Convert 'user_id' in the final DataFrame to string as well
-    df_events_copy['user_id'] = df_events_copy['user_id'].astype(str)
-    df_events_copy['user_pseudo_id'] = df_events_copy['user_pseudo_id'].astype(str)
 
-    # Selecting only the required columns from the events and forms
-    df_events_filtered = df_events_copy[['user_id', 'user_pseudo_id']].dropna(subset=['user_id'])
+    df_events_not_null_user_id.dropna(subset=['user_pseudo_id'], inplace=True)
+    print(df_events_not_null_user_id.shape, "Shape of the df_events_not_null_user_id")
+    print("head of the df_events_not_null_user_id", df_events_not_null_user_id[["user_id", "user_pseudo_id"]].head(10))
 
-    # Optional: Check if 'user_id' is now string
-    if df_events_filtered['user_id'].dtype != 'object':
-        logging.warning('Conversion to string failed, is still an object')
-        
+    user_id_map = df_events_not_null_user_id.set_index('user_pseudo_id')['user_id'].to_dict()
+    email_map = df_events_not_null_user_id.set_index('user_pseudo_id')['email'].to_dict()
 
-    df_filtered = df_events_filtered[df_events_filtered['user_id'].notnull() & df_events_filtered['user_pseudo_id'].notnull()]
+    df_events_copy.dropna(subset=['user_pseudo_id'], inplace=True)
 
-    df_filtered = df_filtered.drop_duplicates(subset=['user_pseudo_id'])
-    # Build a dictionary containing unique key-value pairs for user_pseudo_id and user_id
-    mapping_dict = pd.Series(df_filtered['user_id'].values,
-                                                        index=df_filtered['user_pseudo_id'].values).to_dict()
-    
-    # Replace 'user_id' values in the main dataframe using the mapping dictionary
-    df_events_copy['user_id'] = df_events_copy['user_pseudo_id'].map(mapping_dict)
+    df_events_copy['user_id'] = df_events_copy['user_pseudo_id'].map(user_id_map)
+    df_events_copy['email'] = df_events_copy['user_pseudo_id'].map(email_map)
 
-    
-    # Drop rows with empty user_id from the final DataFrame
-    final_df = df_events_copy.dropna(subset=['user_id'])
-    
-    print(final_df[['user_id', 'user_pseudo_id']].head(5))
-    final_df = final_df.drop_duplicates()
+    print("head of the df_events_copy", df_events_copy[["user_id", "user_pseudo_id"]].head(10))
 
-    # final_df = final_df[['user_id', 'user_pseudo_id', 'email']]
-    return final_df
+    df_events_copy.dropna(subset=['user_id'], inplace=True)
+    return df_events_copy
