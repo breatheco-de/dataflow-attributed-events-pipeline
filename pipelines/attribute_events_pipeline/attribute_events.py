@@ -50,4 +50,6 @@ def run(df_events):
 
     df_events_copy.drop_duplicates(inplace=True)
 
+    df_events_copy['manual_content'] = pd.to_numeric(df_events_copy['manual_content'], errors='coerce')
+
     return df_events_copy
